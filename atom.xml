@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-01-25T02:13:02.138Z</updated>
+  <updated>2021-01-26T01:52:55.578Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>python+selenium个人使用备注</title>
+    <link href="http://example.com/2021/01/26/python-selenium%E4%B8%AA%E4%BA%BA%E4%BD%BF%E7%94%A8%E5%A4%87%E6%B3%A8/"/>
+    <id>http://example.com/2021/01/26/python-selenium%E4%B8%AA%E4%BA%BA%E4%BD%BF%E7%94%A8%E5%A4%87%E6%B3%A8/</id>
+    <published>2021-01-26T01:35:10.000Z</published>
+    <updated>2021-01-26T01:52:55.578Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;查找方式&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&quot;line-numbers language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;find_element_by_id &lt;span class=&quot;token</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>jmeter测试基础使用</title>
