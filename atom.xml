@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-06-29T02:27:07.394Z</updated>
+  <updated>2021-06-29T03:13:58.920Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>jenkins远程连接操作windows电脑执行python自动化</title>
+    <link href="http://example.com/2021/06/29/jenkins%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5%E6%93%8D%E4%BD%9Cwindows%E7%94%B5%E8%84%91%E6%89%A7%E8%A1%8Cpython%E8%87%AA%E5%8A%A8%E5%8C%96/"/>
+    <id>http://example.com/2021/06/29/jenkins%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5%E6%93%8D%E4%BD%9Cwindows%E7%94%B5%E8%84%91%E6%89%A7%E8%A1%8Cpython%E8%87%AA%E5%8A%A8%E5%8C%96/</id>
+    <published>2021-06-29T02:35:10.000Z</published>
+    <updated>2021-06-29T03:13:58.920Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;准备jenkins&lt;br&gt;远程连接主机安装jdk&lt;br&gt;连接jenkins&lt;br&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>docker下备份及恢复数据库</title>
