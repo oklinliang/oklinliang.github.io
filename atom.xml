@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-06-29T03:13:58.920Z</updated>
+  <updated>2021-07-12T02:03:42.782Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>python的实用小技巧</title>
+    <link href="http://example.com/2021/07/12/python%E7%9A%84%E5%AE%9E%E7%94%A8%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
+    <id>http://example.com/2021/07/12/python%E7%9A%84%E5%AE%9E%E7%94%A8%E5%B0%8F%E6%8A%80%E5%B7%A7/</id>
+    <published>2021-07-12T01:57:30.000Z</published>
+    <updated>2021-07-12T02:03:42.782Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;python对比两个数组差&lt;pre&gt;&lt;code&gt;a = [&amp;#39;a&amp;#39;,&amp;#39;b&amp;#39;,&amp;#39;c&amp;#39;,&amp;#39;d&amp;#39;]
+b =</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>jenkins远程连接操作windows电脑执行python自动化</title>
